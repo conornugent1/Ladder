@@ -9,5 +9,8 @@
         <module name="LadderPOC" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LadderPOC" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
